@@ -36,7 +36,7 @@ std::vector<MOTOR_PINS> motorPins = {
 #define STOP 0
 
 // LED Pin Configuration
-#define FRONT_LIGHT_PIN 2 //laser pin
+#define FRONT_LIGHT_PIN 1 //laser pin
 #define REAR_LIGHT_PIN 4
 bool frontLightState = false;
 bool rearLightState = false;
